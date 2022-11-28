@@ -1,0 +1,18 @@
+#input-area {
+    margin: 50px 30% 0px 30%;
+    height: 300px;
+    width: 500px;
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#output-area {
+    margin: 50px 30% 0px 30%;
+    background-color: lightblue;
+    height: 300px;
+    width: 500px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
